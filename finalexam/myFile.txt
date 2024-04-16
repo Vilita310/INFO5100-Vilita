@@ -1,0 +1,2 @@
+Initial string
+A new string
